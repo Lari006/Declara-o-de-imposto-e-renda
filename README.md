@@ -1,36 +1,68 @@
 # 📊 Organizador de Declaração de Imposto de Renda
 
 <p align="center">
-  <strong>Uma solução em Excel para organizar informações de forma simples, prática e estruturada.</strong>
+  <strong>Projeto desenvolvido por Larissa</strong>
 </p>
 
 <p align="center">
-  Projeto desenvolvido durante o Bootcamp DIO — Santander Excel 2026.
+  Uma solução em Excel para organizar informações de forma simples, prática e estruturada.
+</p>
+
+<p align="center">
+  🎓 DIO — Santander Excel 2026
 </p>
 
 <p align="center">
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status">
+
+<img src="https://img.shields.io/badge/Bootcamp-DIO%20Santander%20Excel-red?style=for-the-badge" alt="Bootcamp">
 
 </p>
 
 ---
 
-## 📌 Sobre o Projeto
+# 👩‍💻 Autora do Projeto
+
+## Larissa
+
+Este projeto foi desenvolvido por **Larissa**, estudante de Bootcamp e formada em **Redes de Computadores**, como parte da sua jornada de aprendizado e desenvolvimento profissional na área de tecnologia.
+
+🎓 **Formação:** Redes de Computadores
+
+📚 **Perfil:** Estudante de Bootcamp
+
+💻 **Área:** Tecnologia
+
+📊 **Projeto:** Organizador de Declaração de Imposto de Renda
+
+🎓 **Bootcamp:** DIO — Santander Excel 2026
+
+📅 **Ano:** 2026
+
+---
+
+# 📌 Sobre o Projeto
 
 O **Organizador de Declaração de Imposto de Renda** é uma ferramenta desenvolvida no **Microsoft Excel** com o objetivo de auxiliar na organização e centralização das informações utilizadas no processo de declaração do Imposto de Renda.
 
-A solução foi criada buscando oferecer uma experiência mais **organizada, visual, intuitiva e prática**, utilizando recursos disponíveis no Excel.
+A solução foi criada para proporcionar uma experiência mais:
 
-Este projeto faz parte da minha jornada de aprendizado no **Bootcamp DIO — Santander Excel 2026**.
+- 📊 Organizada;
+- 🔎 Visual;
+- 🧭 Intuitiva;
+- ✅ Prática;
+- 💡 Funcional.
+
+Este projeto foi desenvolvido como parte do **Bootcamp DIO — Santander Excel 2026**, permitindo aplicar conhecimentos de Excel em uma solução prática.
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
 O projeto foi desenvolvido com os seguintes objetivos:
 
@@ -39,16 +71,17 @@ O projeto foi desenvolvido com os seguintes objetivos:
 - 🔎 Facilitar a consulta das informações;
 - ✅ Auxiliar na redução de erros de preenchimento;
 - 🧭 Facilitar a navegação entre as áreas da planilha;
-- 💡 Aplicar conhecimentos de Excel em um projeto prático;
-- 📚 Desenvolver uma solução funcional para fins educacionais.
+- 💡 Aplicar conhecimentos de Excel;
+- 📚 Desenvolver uma solução prática;
+- 🚀 Criar um projeto para composição de portfólio profissional.
 
 ---
 
-## 🛠️ Tecnologias e Recursos
+# 🛠️ Tecnologias Utilizadas
 
-### 📊 Microsoft Excel
+## 📊 Microsoft Excel
 
-Foram utilizados diversos recursos do Excel, incluindo:
+Foram utilizados recursos como:
 
 - Fórmulas e funções;
 - Validação de dados;
@@ -59,9 +92,9 @@ Foram utilizados diversos recursos do Excel, incluindo:
 - Estruturação de menus;
 - Navegação entre planilhas.
 
-### 🐙 GitHub
+## 🐙 GitHub
 
-O GitHub foi utilizado para:
+Utilizado para:
 
 - Armazenamento do projeto;
 - Versionamento;
@@ -69,22 +102,26 @@ O GitHub foi utilizado para:
 - Organização do portfólio;
 - Compartilhamento do projeto.
 
+## 📝 Markdown
+
+Utilizado para desenvolver uma documentação organizada e profissional do projeto.
+
 ---
 
-## ⚙️ Funcionalidades
+# ⚙️ Funcionalidades
 
 | 🧩 Funcionalidade | 📋 Descrição |
 |---|---|
 | 🏠 **Menu Principal** | Centraliza o acesso às principais áreas da planilha |
-| 👤 **Dados do Titular** | Permite organizar as informações do titular |
-| 📄 **Informes** | Área destinada ao registro e organização dos informes de rendimentos |
-| 📝 **Notas** | Espaço para observações e informações complementares |
-| ✅ **Validação de Dados** | Auxilia no preenchimento correto das informações |
-| 🔗 **Navegação** | Facilita o acesso entre as diferentes áreas da planilha |
+| 👤 **Dados do Titular** | Organização das informações do titular |
+| 📄 **Informes** | Registro e organização dos informes de rendimentos |
+| 📝 **Notas** | Área para observações e informações complementares |
+| ✅ **Validação de Dados** | Auxilia no preenchimento das informações |
+| 🔗 **Navegação** | Facilita o acesso entre as diferentes áreas |
 
 ---
 
-## 📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 
 ```text
 Declara-o-de-imposto-e-renda/
