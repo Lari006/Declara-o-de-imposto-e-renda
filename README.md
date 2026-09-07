@@ -1,83 +1,76 @@
 # 📊 Organizador de Declaração de Imposto de Renda
 
-> Projeto desenvolvido em Excel como parte do desafio da DIO — Santander Excel 2026.
+> Ferramenta desenvolvida em Excel para organização das informações necessárias à declaração do Imposto de Renda.
 
----
+## 👩‍💻 Autora
 
-## 📋 Sumário
+**Larissa**
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Objetivos](#-objetivos)
-- [Tecnologias](#-tecnologias)
-- [Funcionalidades](#-funcionalidades)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Validações](#-validações)
-- [Navegação](#-navegação)
-- [Aprendizados](#-aprendizados)
-- [Conclusão](#-conclusão)
-- [Autora](#-autora)
+🎓 Projeto desenvolvido durante o Bootcamp **DIO — Santander Excel 2026**
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O **Organizador de Declaração de Imposto de Renda** é uma ferramenta desenvolvida no Microsoft Excel para auxiliar na organização das informações necessárias para a declaração do Imposto de Renda.
+O **Organizador de Declaração de Imposto de Renda** foi desenvolvido no Microsoft Excel com o objetivo de centralizar e organizar informações importantes para a declaração do Imposto de Renda.
 
-A proposta é reunir informações importantes em um único arquivo, facilitando o preenchimento, a consulta e o controle dos dados.
-
-O projeto utiliza recursos do Excel, como fórmulas, funções, validação de dados, formatação personalizada e links de navegação.
+A ferramenta busca facilitar o preenchimento, a consulta e o controle das informações por meio de uma interface simples e organizada.
 
 ---
 
 ## 🎯 Objetivos
 
-- Organizar informações para a declaração do Imposto de Renda;
-- Facilitar o preenchimento dos dados;
-- Reduzir erros por meio de validações;
-- Criar uma navegação simples e intuitiva;
-- Aplicar funções do Excel;
-- Utilizar formatações personalizadas;
-- Criar links rápidos;
-- Desenvolver uma ferramenta organizada e funcional;
-- Documentar o projeto utilizando o GitHub.
+- Organizar os dados do titular;
+- Centralizar informações financeiras;
+- Registrar informes;
+- Registrar notas e observações;
+- Facilitar o preenchimento das informações;
+- Utilizar validações de dados;
+- Criar navegação entre as áreas da planilha;
+- Aplicar fórmulas e funções do Excel;
+- Desenvolver uma ferramenta prática e intuitiva;
+- Praticar documentação e publicação no GitHub.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
-### Microsoft Excel
-
-Recursos utilizados:
-
-- Fórmulas e funções;
-- Validação de dados;
-- Formatação personalizada;
-- Tabelas;
-- Hiperlinks;
-- Menus de navegação;
-- Organização de dados.
-
-### GitHub
-
-Utilizado para armazenar, documentar e compartilhar o projeto.
-
-### Markdown
-
-Utilizado para criar a documentação do projeto no arquivo `README.md`.
+- Microsoft Excel
+- Fórmulas e funções
+- Validação de dados
+- Formatação personalizada
+- Hiperlinks
+- Tabelas
+- GitHub
+- Markdown
 
 ---
 
 ## ⚙️ Funcionalidades
 
-| Funcionalidade | Descrição |
-|---|---|
-| 🏠 Menu | Permite navegar entre as áreas da ferramenta |
-| 👤 Titular | Cadastro das informações do titular |
-| 🏦 Informes | Organização dos informes |
-| 🧾 Notas | Registro de notas e informações |
-| ✅ Validação | Ajuda a evitar preenchimentos incorretos |
-| 🔗 Links rápidos | Facilita o acesso às áreas da planilha |
-| 🎨 Formatação | Melhora a organização visual |
+### 🏠 Menu Principal
+
+Permite acessar rapidamente as diferentes áreas da ferramenta.
+
+### 👤 Dados do Titular
+
+Área destinada ao cadastro e organização dos dados do titular.
+
+### 🏦 Informes
+
+Área destinada ao registro e organização dos informes financeiros.
+
+### 🧾 Notas
+
+Área destinada ao registro de notas, observações e informações complementares.
+
+### ✅ Validação de Dados
+
+Utilização de validações para auxiliar no preenchimento correto das informações.
+
+### 🔗 Navegação
+
+Links rápidos facilitam o acesso entre as diferentes áreas da planilha.
 
 ---
 
@@ -87,7 +80,6 @@ Utilizado para criar a documentação do projeto no arquivo `README.md`.
 organizador-declaracao-ir/
 │
 ├── README.md
-│
 ├── Organizador_Declaracao_IR.xlsx
 │
 └── images/
